@@ -8,7 +8,6 @@
 
 - Generates payloads for PHP, Python, Bash, Perl, Ruby, and Netcat.
 - Sets up a Netcat listener effortlessly.
-- Cycles through text colors for improved readability.
 - Automatically retrieves the local IP address.
 
 ## Available Payloads
